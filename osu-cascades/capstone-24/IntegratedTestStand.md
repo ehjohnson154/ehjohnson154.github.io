@@ -1,8 +1,7 @@
-[Home](https://sweisss.github.io/) &emsp; &emsp;
-[Personal Projects](https://sweisss.github.io/#personal-projects) &emsp; &emsp;
-[OSU Projects](https://sweisss.github.io/#oregon-state-university-projects) &emsp; &emsp;
-[Element 1 Projects](https://sweisss.github.io/#element-1-projects) &emsp; &emsp;
-[Videos](https://sweisss.github.io/#videos)
+[Home](https://ehjohnson154.github.io/) &emsp; &emsp;
+[Personal Projects](https://ehjohnson154.github.io/#personal-projects) &emsp; &emsp;
+[Capstone](#capstone-2024-integrated-test-stand) &emsp; &emsp;
+
 
 -----------
 
@@ -261,10 +260,4 @@ Indeed, probably the biggest thing we learned from this project is how to effect
 
 -----
 
-[Home](https://sweisss.github.io/) &emsp; &emsp;
-[Personal Projects](https://sweisss.github.io/#personal-projects) &emsp; &emsp;
-[OSU Projects](https://sweisss.github.io/#oregon-state-university-projects) &emsp; &emsp;
-[Element 1 Projects](https://sweisss.github.io/#element-1-projects) &emsp; &emsp;
-[Videos](https://sweisss.github.io/#videos)
-
-(C) Seth Weiss, 2025
+(C) Eric Johnson, 2026
