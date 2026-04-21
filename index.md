@@ -23,7 +23,9 @@ This is a portfolio of Eric Johnson's Capstone work for OSU Cascades, and other 
 
 
 ## Personal Projects
-Projects that are unrelated to but utilize the knowledge and experience gained from a CS degree at OSU-Cascades. You may check out the link [here]()
+Projects that are unrelated to but utilize the knowledge and experience gained from a CS degree at OSU-Cascades. 
+
+**Read more about these projects**[here](https://ehjohnson154.github.io/projects/ProjectsPage.html)**
 
 ### Capstone 2024 Integrated Test Stand
 An academic year-long project involving a team of three Computer Science students.
