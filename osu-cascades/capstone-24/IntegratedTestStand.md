@@ -1,6 +1,7 @@
 [Home](https://ehjohnson154.github.io/) &emsp; &emsp;
-[Personal Projects](https://ehjohnson154.github.io/#personal-projects) &emsp; &emsp;
-[Capstone](#capstone-2024-integrated-test-stand) &emsp; &emsp;
+[Personal Projects](https://ehjohnson154.github.io/projects/projects.html) &emsp; &emsp;
+[Capstone](https://ehjohnson154.github.io/osu-cascades/capstone-24/IntegratedTestStand.html) &emsp; &emsp;
+
 
 
 -----------

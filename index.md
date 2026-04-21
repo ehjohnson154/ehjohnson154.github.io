@@ -1,6 +1,6 @@
 [Home](https://ehjohnson154.github.io/) &emsp; &emsp;
-[Personal Projects](#personal-projects) &emsp; &emsp;
-[Capstone](#capstone-2024-integrated-test-stand) &emsp; &emsp;
+[Personal Projects](https://ehjohnson154.github.io/projects/projects.html) &emsp; &emsp;
+[Capstone](https://ehjohnson154.github.io/osu-cascades/capstone-24/IntegratedTestStand.html) &emsp; &emsp;
 
 ---------
 
@@ -19,11 +19,11 @@ This is a portfolio of Eric Johnson's Capstone work for OSU Cascades, and other 
 
 ### Contents
 - [Personal Projects](#personal-projects)
-- [OSU Projects](#capstone-2024-integrated-test-stand)
+- [Capstone](#capstone-2024-integrated-test-stand)
 
 
 ## Personal Projects
-Projects that are unrelated to but utilize the knowledge and experience gained from a CS degree at OSU-Cascades.
+Projects that are unrelated to but utilize the knowledge and experience gained from a CS degree at OSU-Cascades. You may check out the link [here]()
 
 ### Capstone 2024 Integrated Test Stand
 An academic year-long project involving a team of three Computer Science students.
